@@ -1,0 +1,162 @@
+(2, 19)
+(3, 16)
+(5, 7)
+(3, 18)
+Product not found.
+Index out of bounds.
+(8, 11)
+0
+Index out of bounds.
+(6, 19)
+{(9, 9),(7, 5),(4, 18),(1, 11)}
+Product not found.
+(7, 5)
+{(1, 11),(4, 18),(7, 5),(9, 9),(11, 5)}
+Index out of bounds.
+(13, 19)
+2
+Index out of bounds.
+Index out of bounds.
+{(1, 11),(4, 18),(7, 5),(9, 9),(14, 14)}
+(9, 9)
+(1, 11)
+Product not found.
+Product not found.
+(4, 18)
+{(7, 5),(9, 9),(14, 14),(16, 0)}
+(7, 5)
+{(16, 0),(17, 10),(14, 14),(9, 9)}
+Index out of bounds.
+Product not found.
+(20, 3)
+(19, 5)
+(21, 4)
+(9, 9)
+(14, 14)
+{(17, 10),(21, 4),(16, 0),(23, 17),(22, 13)}
+Product not found.
+(22, 13)
+0
+(21, 4)
+Product not found.
+Product not found.
+Index out of bounds.
+{(26, 3),(25, 6),(24, 2),(23, 17),(16, 0),(17, 10),(27, 6)}
+1
+(17, 10)
+(26, 3)
+Product not found.
+(25, 6)
+Product not found.
+(24, 2)
+Index out of bounds.
+Product not found.
+(29, 17)
+(28, 18)
+Index out of bounds.
+Product not found.
+(35, 8)
+Product not found.
+(36, 17)
+{(39, 2),(38, 11),(16, 0),(23, 17),(30, 17),(31, 14),(32, 17),(37, 4),(33, 3),(34, 15)}
+3
+Product not found.
+(39, 2)
+Product not found.
+Product not found.
+Index out of bounds.
+(49, 19)
+(41, 4)
+(42, 11)
+(45, 19)
+(43, 8)
+Index out of bounds.
+(52, 2)
+(53, 6)
+(42, 11)
+(33, 3)
+(56, 5)
+5
+(33, 3)
+(55, 6)
+{(41, 10),(34, 15),(33, 3),(46, 18),(37, 4),(23, 17),(16, 0),(38, 11),(48, 14),(51, 9)}
+{(51, 9),(48, 14),(38, 11),(16, 0),(23, 17),(37, 4),(46, 18),(33, 3),(34, 15),(41, 10)}
+Product not found.
+1
+0
+0
+Product not found.
+(38, 11)
+{(59, 7),(58, 1),(57, 18),(51, 9),(48, 14),(16, 0),(23, 17),(37, 4),(33, 3),(34, 15),(41, 10)}
+(41, 10)
+(34, 15)
+{(33, 3),(37, 4),(23, 17),(60, 7),(16, 0),(48, 14),(51, 9),(57, 18),(58, 1),(59, 7)}
+(33, 3)
+Index out of bounds.
+(64, 8)
+Index out of bounds.
+(62, 14)
+{(66, 6),(61, 3),(59, 7),(58, 1),(57, 18),(51, 9),(48, 14),(16, 0),(60, 7),(23, 17),(37, 4)}
+(37, 4)
+1
+{(23, 17),(16, 0),(48, 14),(51, 9),(57, 18),(58, 1),(59, 7),(61, 3),(66, 6)}
+(67, 7)
+Product not found.
+Index out of bounds.
+Product not found.
+(66, 6)
+(23, 17)
+{(61, 3),(59, 7),(58, 1),(57, 18),(51, 9),(48, 14),(16, 0),(69, 14)}
+(61, 3)
+2
+(51, 9)
+(72, 19)
+{(71, 18),(70, 10),(59, 7),(58, 1),(48, 14),(16, 0),(73, 13)}
+(73, 13)
+Product not found.
+(16, 0)
+Index out of bounds.
+(74, 10)
+(48, 14)
+Product not found.
+Product not found.
+(80, 3)
+Index out of bounds.
+(82, 12)
+(81, 17)
+2
+Index out of bounds.
+(86, 6)
+(58, 1)
+(87, 16)
+(71, 18)
+Index out of bounds.
+(85, 9)
+Index out of bounds.
+0
+Index out of bounds.
+Index out of bounds.
+Product not found.
+Index out of bounds.
+Product not found.
+Product not found.
+Index out of bounds.
+0
+(96, 4)
+(95, 11)
+{(98, 10),(94, 18),(93, 5),(78, 8),(76, 2),(70, 10),(59, 7),(89, 17),(91, 16),(97, 15)}
+Index out of bounds.
+{(98, 10),(94, 18),(93, 5),(78, 8),(76, 2),(70, 10),(59, 7),(89, 17),(91, 16),(97, 15)}
+Index out of bounds.
+{(97, 15),(91, 16),(89, 17),(59, 7),(70, 10),(76, 2),(78, 8),(93, 5),(94, 18),(98, 10)}
+(97, 15)
+Index out of bounds.
+{(91, 16),(89, 17),(59, 7),(70, 10),(76, 2),(78, 8),(93, 5),(94, 18),(98, 10)}
+Index out of bounds.
+Product not found.
+1
+(91, 16)
+1
+(89, 17)
+Product not found.
+(94, 18)

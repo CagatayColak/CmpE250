@@ -1,0 +1,486 @@
+{}
+Factory is empty.
+Product not found.
+Index out of bounds.
+0
+(81, 7)
+Product not found.
+Product not found.
+Index out of bounds.
+(95, 23)
+Factory is empty.
+{}
+Factory is empty.
+Factory is empty.
+Index out of bounds.
+Factory is empty.
+Product not found.
+Product not found.
+Product not found.
+{(67, 85)}
+(67, 85)
+Index out of bounds.
+Index out of bounds.
+Index out of bounds.
+Product not found.
+0
+Index out of bounds.
+Factory is empty.
+Index out of bounds.
+Factory is empty.
+Product not found.
+{}
+Product not found.
+{}
+Index out of bounds.
+0
+Product not found.
+0
+Product not found.
+(13, 63)
+0
+{(79, 71)}
+Index out of bounds.
+Product not found.
+(79, 71)
+{}
+0
+Product not found.
+Index out of bounds.
+Index out of bounds.
+Factory is empty.
+Factory is empty.
+Product not found.
+Product not found.
+0
+(19, 18)
+{(84, 95),(49, 94)}
+{(49, 94),(84, 95)}
+{(49, 94),(84, 95)}
+{(49, 94),(84, 95)}
+0
+(84, 95)
+Index out of bounds.
+Product not found.
+0
+Product not found.
+{(33, 93),(27, 85),(49, 94)}
+0
+0
+0
+Product not found.
+Index out of bounds.
+{(10, 49),(49, 94),(27, 85),(33, 93)}
+{(33, 93),(27, 85),(49, 94),(10, 49)}
+{(33, 93),(27, 85),(49, 94),(10, 49)}
+Index out of bounds.
+{(33, 93),(27, 85),(49, 94),(10, 49),(52, 2),(63, 2)}
+Index out of bounds.
+(81, 49)
+(63, 2)
+Index out of bounds.
+Index out of bounds.
+0
+Product not found.
+Product not found.
+(94, 83)
+Product not found.
+(33, 93)
+0
+{(27, 85),(49, 94),(10, 49),(52, 2)}
+(52, 2)
+Index out of bounds.
+Index out of bounds.
+(27, 85)
+(10, 49)
+{(49, 94)}
+{(49, 94)}
+Product not found.
+Product not found.
+0
+{(49, 94)}
+Product not found.
+{(49, 94)}
+Product not found.
+Index out of bounds.
+Product not found.
+(59, 90)
+(49, 94)
+(42, 64)
+Product not found.
+Factory is empty.
+Index out of bounds.
+Index out of bounds.
+{}
+0
+{}
+Product not found.
+Index out of bounds.
+Product not found.
+Index out of bounds.
+{(11, 90)}
+0
+{(11, 90)}
+0
+Index out of bounds.
+(11, 90)
+Index out of bounds.
+Factory is empty.
+Factory is empty.
+Factory is empty.
+{}
+Factory is empty.
+0
+0
+Product not found.
+Index out of bounds.
+Factory is empty.
+Index out of bounds.
+{}
+Product not found.
+Product not found.
+Product not found.
+Product not found.
+Index out of bounds.
+Factory is empty.
+Product not found.
+Index out of bounds.
+Product not found.
+Index out of bounds.
+{(70, 96),(70, 69)}
+{(70, 96),(70, 69)}
+0
+Product not found.
+Product not found.
+Product not found.
+Index out of bounds.
+Product not found.
+Index out of bounds.
+Product not found.
+{(70, 69),(70, 96),(79, 59),(78, 8)}
+Product not found.
+(78, 8)
+Product not found.
+Index out of bounds.
+(12, 53)
+Index out of bounds.
+Product not found.
+Index out of bounds.
+Product not found.
+(10, 89)
+Index out of bounds.
+{(58, 31),(70, 69),(70, 96),(79, 59)}
+Index out of bounds.
+Index out of bounds.
+(58, 31)
+{(79, 59),(70, 96),(70, 69)}
+Product not found.
+{(70, 69),(70, 96),(79, 59)}
+Product not found.
+Index out of bounds.
+Product not found.
+{(62, 47),(79, 59),(70, 96),(70, 69)}
+Index out of bounds.
+Index out of bounds.
+Index out of bounds.
+(62, 47)
+(70, 69)
+Product not found.
+(79, 59)
+(70, 96)
+{(79, 39)}
+Index out of bounds.
+Index out of bounds.
+Product not found.
+Product not found.
+Product not found.
+Index out of bounds.
+{(79, 39),(42, 41)}
+Product not found.
+Product not found.
+{(79, 39),(42, 41)}
+{(79, 39),(42, 41)}
+(42, 41)
+(79, 39)
+Index out of bounds.
+Product not found.
+Product not found.
+Product not found.
+Product not found.
+Product not found.
+Index out of bounds.
+Index out of bounds.
+(0, 78)
+(11, 65)
+Index out of bounds.
+{(42, 94)}
+Product not found.
+Product not found.
+{(42, 94)}
+Index out of bounds.
+(39, 56)
+Index out of bounds.
+Product not found.
+{(12, 23),(42, 94)}
+Index out of bounds.
+(12, 23)
+{(42, 94)}
+Product not found.
+{(42, 94)}
+{(42, 94),(13, 54)}
+{(47, 88),(42, 94),(13, 54)}
+{(13, 54),(42, 94),(47, 88)}
+Index out of bounds.
+(47, 88)
+{(42, 94),(13, 54)}
+0
+Index out of bounds.
+(42, 94)
+{(13, 54),(65, 92)}
+(13, 54)
+Index out of bounds.
+Index out of bounds.
+Index out of bounds.
+Product not found.
+Index out of bounds.
+Index out of bounds.
+Product not found.
+Index out of bounds.
+(77, 24)
+(65, 92)
+0
+Index out of bounds.
+{(81, 85),(94, 25),(87, 82)}
+Product not found.
+Product not found.
+Product not found.
+Product not found.
+(81, 85)
+{(94, 25),(87, 82)}
+Product not found.
+Product not found.
+(94, 25)
+Product not found.
+{(30, 48),(87, 82),(74, 92),(96, 0)}
+0
+Product not found.
+Index out of bounds.
+Index out of bounds.
+(30, 48)
+(87, 82)
+Product not found.
+Product not found.
+{(89, 4),(96, 0),(74, 92)}
+0
+{(74, 92),(96, 0),(89, 4)}
+{(74, 92),(96, 0),(89, 4)}
+Product not found.
+{(23, 89),(89, 4),(96, 0),(74, 92)}
+(74, 92)
+Product not found.
+Index out of bounds.
+(53, 46)
+(96, 0)
+Index out of bounds.
+{(23, 89),(89, 4)}
+(89, 4)
+Index out of bounds.
+Index out of bounds.
+Index out of bounds.
+{(23, 89)}
+Index out of bounds.
+Product not found.
+Index out of bounds.
+(23, 89)
+Index out of bounds.
+0
+(91, 2)
+Index out of bounds.
+Product not found.
+(61, 65)
+Product not found.
+Factory is empty.
+Factory is empty.
+Index out of bounds.
+Factory is empty.
+Product not found.
+Index out of bounds.
+Index out of bounds.
+Product not found.
+Index out of bounds.
+Product not found.
+Index out of bounds.
+Index out of bounds.
+Index out of bounds.
+Product not found.
+Index out of bounds.
+Index out of bounds.
+Index out of bounds.
+Index out of bounds.
+Index out of bounds.
+Product not found.
+Index out of bounds.
+(97, 8)
+Index out of bounds.
+Index out of bounds.
+0
+Product not found.
+Index out of bounds.
+Index out of bounds.
+Index out of bounds.
+(34, 43)
+Index out of bounds.
+Product not found.
+Index out of bounds.
+{(40, 62)}
+(40, 62)
+0
+Factory is empty.
+Index out of bounds.
+Product not found.
+{}
+(99, 60)
+Index out of bounds.
+Index out of bounds.
+(53, 96)
+Product not found.
+Product not found.
+0
+Factory is empty.
+Index out of bounds.
+(3, 95)
+{}
+Index out of bounds.
+Index out of bounds.
+(71, 32)
+{}
+Product not found.
+{}
+Index out of bounds.
+Index out of bounds.
+Index out of bounds.
+0
+Factory is empty.
+{}
+Index out of bounds.
+{}
+{}
+{(61, 7)}
+(61, 7)
+0
+Index out of bounds.
+{(66, 87)}
+Index out of bounds.
+Product not found.
+(23, 37)
+{(66, 87)}
+(66, 87)
+Product not found.
+Product not found.
+{(69, 2),(7, 24),(12, 55)}
+(69, 2)
+0
+(12, 55)
+Product not found.
+Product not found.
+Index out of bounds.
+{(55, 42),(7, 24)}
+Product not found.
+Product not found.
+{(7, 24),(55, 42)}
+Product not found.
+(35, 6)
+(7, 24)
+Index out of bounds.
+(55, 42)
+Index out of bounds.
+Index out of bounds.
+Product not found.
+{(89, 73)}
+Index out of bounds.
+Product not found.
+Product not found.
+{(89, 73),(19, 95)}
+(89, 73)
+0
+0
+{(19, 95)}
+Product not found.
+Product not found.
+(19, 95)
+Index out of bounds.
+Product not found.
+(77, 11)
+Product not found.
+Index out of bounds.
+Product not found.
+0
+0
+(37, 57)
+0
+Index out of bounds.
+{(76, 20)}
+Product not found.
+Product not found.
+Index out of bounds.
+{(76, 20)}
+{(76, 20)}
+{(76, 20),(69, 0)}
+Index out of bounds.
+{(69, 0),(76, 20)}
+Product not found.
+Product not found.
+(69, 0)
+0
+Product not found.
+0
+Index out of bounds.
+{(22, 98),(76, 20)}
+{(22, 98),(76, 20)}
+Product not found.
+Product not found.
+Index out of bounds.
+Product not found.
+Index out of bounds.
+Index out of bounds.
+(76, 20)
+Product not found.
+(22, 98)
+(48, 86)
+0
+Product not found.
+Product not found.
+(13, 99)
+Product not found.
+Product not found.
+Index out of bounds.
+0
+{(99, 84)}
+Product not found.
+{(99, 84)}
+(99, 84)
+Product not found.
+(88, 96)
+0
+Product not found.
+Index out of bounds.
+0
+Product not found.
+Index out of bounds.
+Index out of bounds.
+Factory is empty.
+Index out of bounds.
+Factory is empty.
+Index out of bounds.
+Index out of bounds.
+Index out of bounds.
+Product not found.
+Factory is empty.
+Index out of bounds.
+Index out of bounds.
+Index out of bounds.
+Product not found.
+Index out of bounds.
+{(5, 88),(14, 99)}
+0
+0

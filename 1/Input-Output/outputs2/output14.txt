@@ -1,0 +1,172 @@
+Index out of bounds.
+Factory is empty.
+Factory is empty.
+Product not found.
+Index out of bounds.
+Index out of bounds.
+Product not found.
+{(2, 19),(1, 8),(4, 15)}
+(2, 19)
+(5, 16)
+{(1, 8),(4, 15)}
+0
+0
+(7, 18)
+(1, 8)
+(6, 4)
+{(4, 15),(7, 18)}
+(8, 7)
+(7, 18)
+0
+(8, 7)
+Index out of bounds.
+Product not found.
+{(11, 14),(10, 4),(4, 15),(9, 10)}
+(12, 15)
+(11, 14)
+Index out of bounds.
+(9, 10)
+1
+Index out of bounds.
+(9, 10)
+Product not found.
+Product not found.
+1
+(9, 10)
+Index out of bounds.
+(16, 3)
+(9, 10)
+(17, 3)
+{(14, 11),(19, 11),(12, 4),(4, 15),(18, 3),(15, 1)}
+(20, 15)
+(12, 4)
+Product not found.
+Product not found.
+(12, 4)
+(23, 4)
+Product not found.
+{(15, 1),(18, 3),(4, 15),(19, 11),(14, 11),(21, 10),(22, 9),(24, 5)}
+(15, 1)
+1
+(24, 5)
+(18, 3)
+Product not found.
+(27, 12)
+Product not found.
+(32, 7)
+(22, 9)
+(21, 10)
+(34, 3)
+(35, 6)
+Product not found.
+{(36, 2),(33, 1),(31, 14),(25, 5),(30, 3),(19, 11),(4, 15),(18, 3),(29, 1),(15, 1),(26, 7),(28, 19)}
+(31, 14)
+(28, 19)
+(33, 1)
+Product not found.
+(19, 11)
+(26, 7)
+Product not found.
+(38, 17)
+(25, 5)
+(36, 2)
+3
+{(41, 12),(39, 16),(29, 1),(4, 15),(19, 11),(30, 3),(36, 2),(37, 13),(42, 12),(43, 0)}
+Product not found.
+(43, 0)
+(41, 12)
+(42, 12)
+(30, 3)
+Product not found.
+0
+Product not found.
+(37, 13)
+Index out of bounds.
+(19, 11)
+{(47, 18),(46, 15),(39, 16),(29, 1),(4, 15),(36, 2),(44, 3)}
+Product not found.
+Index out of bounds.
+1
+{(44, 3),(36, 2),(29, 1),(39, 16),(46, 15),(47, 18),(48, 4)}
+(44, 3)
+Index out of bounds.
+Product not found.
+(36, 2)
+Index out of bounds.
+(48, 4)
+{(29, 1),(39, 16),(46, 15),(47, 18)}
+(47, 18)
+Product not found.
+(29, 1)
+Index out of bounds.
+Product not found.
+(46, 15)
+(39, 16)
+(46, 14)
+Product not found.
+Index out of bounds.
+(50, 4)
+(53, 3)
+Product not found.
+Index out of bounds.
+(51, 6)
+(39, 16)
+(55, 4)
+Product not found.
+Product not found.
+(56, 19)
+{}
+Factory is empty.
+{(58, 16),(57, 3),(59, 11)}
+(58, 16)
+Index out of bounds.
+{(61, 12),(57, 3),(60, 18),(59, 11)}
+(59, 11)
+(61, 12)
+Product not found.
+Index out of bounds.
+(57, 3)
+(62, 19)
+0
+(60, 18)
+Product not found.
+(63, 5)
+Index out of bounds.
+Product not found.
+(65, 10)
+Factory is empty.
+Index out of bounds.
+0
+Index out of bounds.
+Index out of bounds.
+(66, 11)
+Product not found.
+(66, 11)
+Index out of bounds.
+(68, 13)
+{(70, 13),(67, 16)}
+(70, 13)
+Index out of bounds.
+0
+Product not found.
+Index out of bounds.
+Product not found.
+Product not found.
+{(73, 2),(72, 15),(67, 16)}
+Index out of bounds.
+(74, 4)
+(74, 4)
+(73, 2)
+(67, 16)
+(72, 15)
+{(77, 1),(76, 16),(78, 9)}
+Index out of bounds.
+{(77, 1),(76, 16),(78, 9)}
+(76, 16)
+{(77, 1),(78, 9)}
+(78, 9)
+Product not found.
+(79, 19)
+{(77, 1)}
+0
+(77, 1)

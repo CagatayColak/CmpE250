@@ -1,0 +1,168 @@
+Factory is empty.
+Product not found.
+(1, 11)
+Index out of bounds.
+(2, 16)
+{(3, 0)}
+(3, 0)
+Product not found.
+Index out of bounds.
+Factory is empty.
+(5, 4)
+(6, 5)
+Product not found.
+(7, 10)
+{}
+Factory is empty.
+Product not found.
+Index out of bounds.
+Factory is empty.
+{}
+Product not found.
+{(11, 7),(9, 13),(10, 9)}
+{(11, 7),(9, 13),(10, 9)}
+{(11, 7),(9, 13),(10, 9)}
+{(10, 9),(9, 13),(11, 7)}
+Index out of bounds.
+0
+{(12, 16),(10, 9),(9, 13),(11, 7)}
+(12, 16)
+(11, 7)
+Index out of bounds.
+Index out of bounds.
+{(17, 14),(15, 19),(11, 7),(9, 13),(10, 9),(14, 5),(16, 7)}
+(18, 8)
+{(17, 14),(15, 19),(11, 7),(9, 13),(10, 9),(14, 5),(16, 7)}
+Index out of bounds.
+Product not found.
+Product not found.
+(20, 0)
+Product not found.
+{(16, 7),(14, 5),(10, 9),(9, 13),(11, 7),(15, 19),(17, 14)}
+(14, 5)
+{(16, 7),(14, 14),(10, 9),(9, 13),(11, 7),(15, 19),(17, 14)}
+(22, 7)
+{(17, 14),(15, 19),(21, 12),(11, 7),(9, 13),(10, 9),(14, 14),(16, 7)}
+{(17, 14),(15, 19),(21, 12),(11, 7),(9, 13),(10, 9),(14, 14),(16, 7)}
+{(26, 9),(24, 8),(17, 14),(15, 19),(21, 12),(11, 7),(9, 13),(10, 9),(14, 14),(16, 7),(23, 8),(25, 3),(27, 4)}
+Product not found.
+(14, 14)
+(28, 5)
+Index out of bounds.
+(27, 4)
+Product not found.
+(31, 7)
+(26, 9)
+(32, 4)
+Product not found.
+{(24, 8),(17, 14),(15, 19),(21, 12),(32, 14),(11, 7),(9, 13),(10, 9),(14, 14),(16, 7),(23, 8),(25, 3),(29, 5)}
+(32, 14)
+(36, 10)
+(34, 2)
+(39, 16)
+(38, 17)
+(32, 8)
+Product not found.
+(35, 12)
+6
+(29, 5)
+1
+(25, 3)
+Product not found.
+Index out of bounds.
+Product not found.
+{(10, 9),(9, 13),(11, 7),(15, 19),(17, 14),(33, 18),(34, 12),(37, 8),(41, 11),(43, 12),(44, 3),(45, 10)}
+(11, 7)
+Index out of bounds.
+2
+{(45, 10),(44, 3),(41, 11),(37, 8),(34, 12),(33, 18),(17, 14),(15, 19),(11, 7),(9, 13),(10, 9)}
+(37, 8)
+(17, 14)
+(11, 7)
+(37, 12)
+(47, 13)
+Index out of bounds.
+3
+Product not found.
+{(10, 9),(11, 7),(15, 19),(33, 18),(34, 12),(41, 11),(44, 3),(45, 10),(48, 13)}
+Index out of bounds.
+Product not found.
+Product not found.
+{(10, 9),(11, 7),(15, 19),(33, 18),(34, 12),(41, 11),(44, 3),(45, 10),(48, 13),(51, 16)}
+Product not found.
+(10, 9)
+1
+(11, 7)
+(51, 16)
+Index out of bounds.
+(44, 3)
+Index out of bounds.
+Product not found.
+Index out of bounds.
+Product not found.
+{(56, 1),(48, 13),(45, 10),(44, 3),(41, 11),(34, 12),(54, 18),(33, 18),(15, 19),(52, 4),(11, 7),(55, 11)}
+{(59, 0),(56, 1),(48, 13),(45, 10),(44, 3),(41, 11),(34, 12),(54, 18),(33, 18),(15, 19),(52, 4),(11, 7),(55, 11)}
+Index out of bounds.
+(15, 19)
+(44, 3)
+{(61, 4),(60, 17),(55, 11),(11, 7),(52, 4),(62, 16),(33, 18),(54, 18),(34, 12),(41, 11),(44, 11),(45, 10),(48, 13),(56, 1),(59, 0)}
+5
+0
+Index out of bounds.
+Index out of bounds.
+(59, 0)
+(45, 10)
+(64, 3)
+Index out of bounds.
+Product not found.
+(56, 1)
+Index out of bounds.
+Index out of bounds.
+Index out of bounds.
+(11, 7)
+(45, 12)
+Product not found.
+(61, 4)
+{(60, 17),(55, 11),(62, 16),(33, 18),(34, 12),(45, 12),(48, 13),(67, 18),(69, 18)}
+Product not found.
+Product not found.
+Product not found.
+(60, 17)
+Index out of bounds.
+{(55, 11),(62, 16),(33, 18),(34, 12),(45, 12),(48, 13),(67, 18),(69, 18)}
+Index out of bounds.
+Product not found.
+{(70, 8),(69, 18),(67, 18),(48, 13),(45, 12),(34, 12),(33, 18),(62, 16),(55, 11)}
+(45, 12)
+Product not found.
+2
+{(55, 11),(62, 16),(34, 12),(48, 13),(69, 18),(70, 8),(71, 9)}
+Index out of bounds.
+{(72, 13),(55, 11),(62, 16),(34, 12),(48, 13),(69, 18),(70, 8),(71, 9),(73, 9)}
+(73, 9)
+Product not found.
+{(71, 9),(70, 8),(69, 18),(48, 13),(34, 12),(62, 16),(55, 11),(72, 13),(74, 7)}
+(72, 13)
+Product not found.
+Product not found.
+2
+(76, 14)
+Product not found.
+Index out of bounds.
+(79, 17)
+(77, 7)
+Index out of bounds.
+Index out of bounds.
+(80, 16)
+(82, 18)
+Index out of bounds.
+(78, 14)
+Index out of bounds.
+(86, 18)
+2
+Product not found.
+1
+Index out of bounds.
+Product not found.
+{(91, 7),(77, 7),(71, 9),(70, 8),(69, 18),(48, 13),(34, 12),(75, 16),(90, 17),(55, 11),(83, 17),(85, 15),(88, 2),(89, 6)}
+Index out of bounds.
